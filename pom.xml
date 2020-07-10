@@ -23,6 +23,7 @@
         <java.version>1.8</java.version>
     </properties>
 
+    <!--branch1再次添加-->
     <dependencies>
         <dependency>
             <groupId>org.springframework.boot</groupId>
