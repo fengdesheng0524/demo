@@ -6,7 +6,12 @@ public class MasterBean {
         System.out.println("主分支");
         System.out.println("主分支");
         System.out.println("主分支");
+
+        System.out.println("2.0.0提交");
     }
     //fengdesheng
     //fengdesheng1111
+
+
+
 }
